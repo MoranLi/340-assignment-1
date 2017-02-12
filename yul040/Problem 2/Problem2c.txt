@@ -1,0 +1,8 @@
+*Main> fastExp3 6 7
+279936
+*Main> fastExp3 7 6
+117649
+*Main> fastExp3 6 6
+46656
+*Main> fastExp3 7 7
+823543

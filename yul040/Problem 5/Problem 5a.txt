@@ -1,0 +1,9 @@
+*Main> compose3 f g h 2
+9.5
+*Main> compose3 f g h 232
+239.5
+*Main> a x = x + 1.0215
+*Main> b x = x - 4.3232
+*Main> c x = x * 121112.2112
+*Main> compose3 a b c 3
+363333.3319

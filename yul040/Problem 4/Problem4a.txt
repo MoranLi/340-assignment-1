@@ -1,0 +1,12 @@
+*Main> averageThree 1 2 3
+2.0
+*Main> averageThree 2 3 5
+3.3333333333333335
+*Main> averageThree 7 4 1
+4.0
+*Main> averageThree 75 8 9
+30.666666666666668
+*Main> howManyAboveAverage 2333333 666 999
+1
+*Main> howManyAboveAverage 7 9 1
+2

@@ -1,0 +1,8 @@
+*Main> fastExp2 4 5
+1024
+*Main> fastExp2 5 4
+625
+*Main> fastExp2 4 4
+256
+*Main> fastExp2 5 5
+3125

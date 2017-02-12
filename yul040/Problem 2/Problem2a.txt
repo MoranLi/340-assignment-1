@@ -1,0 +1,8 @@
+*Main> fastExp1 2 3
+8
+*Main> fastExp1 3 2
+9
+*Main> fastExp1 3 3
+27
+*Main> fastExp1 2 2
+4

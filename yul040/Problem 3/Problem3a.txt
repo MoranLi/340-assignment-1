@@ -1,0 +1,16 @@
+*Main> luhnDouble 2
+4
+*Main> luhnDouble 3
+6
+*Main> luhnDouble 4
+8
+*Main> luhnDouble 5
+1
+*Main> luhnDouble 6
+3
+*Main> luhnDouble 7
+5
+*Main> luhnDouble 8
+7
+*Main> luhnDouble 9
+9
